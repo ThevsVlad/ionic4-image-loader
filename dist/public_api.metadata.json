@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./lib/ionic-image-loader.component"},{"from":"./lib/ionic-image-loader.module"},{"from":"./lib/services/image-loader.service"},{"from":"./lib/services/image-loader-config.service"}]}]
